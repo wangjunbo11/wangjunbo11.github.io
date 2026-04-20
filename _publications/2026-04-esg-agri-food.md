@@ -3,7 +3,7 @@ title: "Towards Sustainable Agri-Food Systems: The Role of Environment, Society,
 collection: publications
 permalink: /publication/esg-agri-food/
 date: 2025-09-08
-
+tags: trade
 venue: "Agribusiness (SCI / SSCI, IF ≈ 2.0)"
 authors: "Ping Wei, Hongman Liu, Junbo Wang"
 
