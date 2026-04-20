@@ -4,9 +4,6 @@ collection: publications
 permalink: /publication/esg-agri-food/
 date: 2025-09-08
 
-tags:
-  - esg
-  - climate
 
 venue: "Agribusiness (SCI / SSCI, IF ≈ 2.0)"
 authors: "Ping Wei, Hongman Liu, Junbo Wang"
