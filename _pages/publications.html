@@ -1,138 +1,32 @@
----
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
----
+<div class="pub-card {% for t in post.tags %}{{ t }} {% endfor %}">
 
-{% include base_path %}
-
-<!-- FILTER BAR -->
-<div class="filter-bar">
-  <button onclick="filter('all')">All</button>
-  <button onclick="filter('climate')">Climate</button>
-  <button onclick="filter('esg')">ESG</button>
-  <button onclick="filter('trade')">Trade</button>
-  <button onclick="filter('methods')">Methods</button>
-</div>
-
-<div class="publications-grid">
-
-{% for post in site.publications reversed %}
-
-  <div class="pub-card {{ post.tags }}">
-
-    <div class="pub-title">
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </div>
-
-    <div class="pub-authors">
-      {{ post.authors }}
-    </div>
-
-    <div class="pub-venue">
-      {{ post.venue }}
-    </div>
-
-    <div class="pub-excerpt">
-      {{ post.excerpt }}
-    </div>
-
-    <div class="pub-tags">
-      {{ post.tags }}
-    </div>
-
-    <div class="pub-links">
-      {% if post.paperurl %}
-        <a href="{{ post.paperurl }}" target="_blank">DOI</a>
-      {% endif %}
-      <a href="{{ post.url }}">Details</a>
-    </div>
-
+  <div class="pub-title">
+    <a href="{{ post.url }}">{{ post.title }}</a>
   </div>
 
-{% endfor %}
+  <div class="pub-authors">
+    {{ post.authors }}
+  </div>
+
+  <div class="pub-venue">
+    {{ post.venue }}
+  </div>
+
+  <div class="pub-excerpt">
+    {{ post.excerpt }}
+  </div>
+
+  <div class="pub-tags">
+    {% for t in post.tags %}
+      <span>{{ t }}</span>
+    {% endfor %}
+  </div>
+
+  <div class="pub-links">
+    {% if post.paperurl %}
+      <a href="{{ post.paperurl }}" target="_blank">DOI</a>
+    {% endif %}
+    <a href="{{ post.url }}">Details</a>
+  </div>
 
 </div>
-
-<script>
-function filter(tag) {
-  let cards = document.querySelectorAll('.pub-card');
-  cards.forEach(c => {
-    if(tag === 'all') {
-      c.style.display = 'block';
-    } else {
-      if(c.classList.contains(tag)) {
-        c.style.display = 'block';
-      } else {
-        c.style.display = 'none';
-      }
-    }
-  });
-}
-</script>
-
-<style>
-.filter-bar {
-  margin-bottom: 20px;
-}
-
-.filter-bar button {
-  margin-right: 8px;
-  padding: 5px 10px;
-  border: 1px solid #ccc;
-  background: #fff;
-  cursor: pointer;
-}
-
-.publications-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
-  gap: 20px;
-}
-
-.pub-card {
-  border: 1px solid #e5e5e5;
-  border-radius: 12px;
-  padding: 16px;
-  background: #fff;
-  transition: 0.2s;
-}
-
-.pub-card:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 8px 18px rgba(0,0,0,0.08);
-}
-
-.pub-title {
-  font-weight: 600;
-  margin-bottom: 6px;
-}
-
-.pub-authors {
-  font-size: 13px;
-  color: #666;
-}
-
-.pub-venue {
-  font-size: 12px;
-  font-style: italic;
-  color: #888;
-}
-
-.pub-excerpt {
-  font-size: 13px;
-  margin-top: 8px;
-}
-
-.pub-tags {
-  font-size: 11px;
-  color: #2a6fdb;
-  margin-top: 6px;
-}
-
-.pub-links a {
-  font-size: 12px;
-  margin-right: 10px;
-}
-</style>
