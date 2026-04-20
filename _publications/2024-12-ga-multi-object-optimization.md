@@ -6,7 +6,7 @@ date: 2024-12-29
 
 venue: "2024 IEEE 2nd International Conference on Electrical, Automation and Computer Engineering (ICEACE)"
 authors: "Junbo Wang, Xincan Zhou"
-tags: methods optimization
+
 paperurl: "https://doi.org/10.1109/ICEACE63551.2024.10898302"
 
 excerpt: "This paper proposes a genetic algorithm-based multi-objective optimization model for production decision-making under uncertainty."
