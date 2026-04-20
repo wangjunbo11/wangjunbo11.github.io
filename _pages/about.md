@@ -10,7 +10,7 @@ redirect_from:
 
 I am an undergraduate student at China Agricultural University, majoring in Finance, with a strong interdisciplinary background in Computer Science and empirical economics.
 
-My ORCID: https://orcid.org/0009-0007-8921-4070
+My ORCID: ORCID: [0009-0007-8921-4070](https://orcid.org/0009-0007-8921-4070)
 
 ---
 
