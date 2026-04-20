@@ -3,10 +3,14 @@ title: "Towards Sustainable Agri-Food Systems: The Role of Environment, Society,
 collection: publications
 permalink: /publication/esg-agri-food/
 date: 2025-09-08
-tags: trade
+
+tags:
+  - esg
+  - climate
+
 venue: "Agribusiness (SCI / SSCI, IF ≈ 2.0)"
 authors: "Ping Wei, Hongman Liu, Junbo Wang"
-tags: esg climate
+
 paperurl: "https://doi.org/10.1002/agr.70031"
 
 excerpt: "This paper examines how ESG performance influences export quality upgrading in agri-food firms under climate and sustainability pressures."
