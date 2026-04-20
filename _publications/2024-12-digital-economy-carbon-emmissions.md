@@ -6,7 +6,7 @@ date: 2024-12-25
 
 venue: "Highlights in Science, Engineering and Technology"
 authors: "Junbo Wang, Shumiao Gao, Zhen Qin"
-
+tags: climate digital-economy
 paperurl: "https://doi.org/10.54097/6wnfxe67"
 
 excerpt: "This paper examines how digital economy development affects agricultural carbon emissions using provincial panel data in China."
