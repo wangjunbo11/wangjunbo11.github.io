@@ -24,13 +24,13 @@ repository               : "wangjunbo11/wangjunbo11.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "王俊博 Junbo Wang"
+  pronouns         : "he/him"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Beijing, China"
+  employer         : "China Agricultural University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "15204633895@163.com" 
 
   # Academic websites
   academia         : # URL
