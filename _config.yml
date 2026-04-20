@@ -25,11 +25,10 @@ repository               : "wangjunbo11/wangjunbo11.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Picture.jpg"
   name             : "王俊博 Junbo Wang"
   pronouns         : "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Beijing, China"
+  bio              : "Agricultural Economics | Environment Economics | Data-driven Policy Evaluation"
   employer         : "China Agricultural University"
   uri              : # URL
   email            : "15204633895@163.com" 
