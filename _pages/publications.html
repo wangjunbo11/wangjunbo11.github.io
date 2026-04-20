@@ -7,15 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- Google Scholar link -->
-{% if site.author.googlescholar %}
-  <div class="wordwrap">
-    You can also find my articles on 
-    <a href="{{ site.author.googlescholar }}">Google Scholar</a>.
-  </div>
-{% endif %}
+<div class="publications-grid">
 
-<!-- Publications list -->
 {% for post in site.publications reversed %}
 
   <div class="pub-card">
@@ -46,13 +39,11 @@ author_profile: true
       {% if post.paperurl %}
         <a href="{{ post.paperurl }}" target="_blank">Paper</a>
       {% endif %}
-      {% if post.url %}
-        <a href="{{ post.url }}">Details</a>
-      {% endif %}
+      <a href="{{ post.url }}">Details</a>
     </div>
 
   </div>
 
-  <hr>
-
 {% endfor %}
+
+</div>
