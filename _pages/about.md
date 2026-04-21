@@ -1,11 +1,11 @@
 ---
-layout: about
-title: "About"
 permalink: /
+title: "About"
 author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
-
-{% include base_path %}
 
 # Junbo Wang | 王俊博  
 he/him
@@ -15,9 +15,9 @@ China Agricultural University
 
 ---
 
-## Research Focus
+## Research Interests
 
-ESG · Climate Change · Environmental Policy · Data-driven Economics
+ESG · Climate Change · Environmental Policy · Data-driven Economics · Machine Learning in Economics
 
 I study how environmental regulation, corporate behavior, and digitalization shape sustainable development and firm outcomes using econometric and machine learning methods.
 
@@ -41,7 +41,7 @@ I study how environmental regulation, corporate behavior, and digitalization sha
 
 ## Working Papers
 
-- *Agricultural Carbon Emissions and Green Transition in China*  
+- *Reassessing Agricultural Carbon Emissions and Green Transition in China*  
 - *Ecological Pilot Zones and Green Agricultural Production (DML Evidence)*  
 
 ---
