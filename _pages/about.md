@@ -2,49 +2,31 @@
 layout: about
 title: "About"
 permalink: /
-author_profile: false
+author_profile: true
 ---
 
-<div class="homepage-grid">
+{% include base_path %}
 
-<!-- LEFT COLUMN -->
-<div class="left-column">
+# Junbo Wang | 王俊博  
+he/him
 
-<img src="/images/profile.png" alt="profile" class="profile-img"/>
-
-<h1>Junbo Wang | 王俊博</h1>
-<p>he/him</p>
-
-<p><strong>Integrated M.A.–Ph.D. Student in Applied Economics</strong><br>
-China Agricultural University</p>
+Integrated M.A.–Ph.D. Student in Applied Economics  
+China Agricultural University
 
 ---
-
-## Quick Links
-
-- 📄 [CV](/cv/)
-- 📚 [Publications](/publications/)
-- 💻 [GitHub](https://github.com/wangjunbo11)
-- 🆔 [ORCID](https://orcid.org/0009-0007-8921-4070)
-
----
-
-## Contact
-
-📧 15204633895@163.com  
-💻 GitHub: wangjunbo11  
-🆔 ORCID: 0009-0007-8921-4070  
-
-</div>
-
-<!-- RIGHT COLUMN -->
-<div class="right-column">
 
 ## Research Focus
 
 ESG · Climate Change · Environmental Policy · Data-driven Economics
 
 I study how environmental regulation, corporate behavior, and digitalization shape sustainable development and firm outcomes using econometric and machine learning methods.
+
+---
+
+## Education
+
+- B.A. in Finance, China Agricultural University, 2022–2026 (expected)  
+- Integrated M.A.–Ph.D. in Applied Economics, China Agricultural University, 2026–2031 (expected)  
 
 ---
 
@@ -78,6 +60,10 @@ I study how environmental regulation, corporate behavior, and digitalization sha
 - Machine Learning for Economics  
 - Programming: Python, R, Stata, Matlab  
 
-</div>
+---
 
-</div>
+## Contact
+
+- Email: 15204633895@163.com  
+- GitHub: https://github.com/wangjunbo11  
+- ORCID: https://orcid.org/0009-0007-8921-4070  
