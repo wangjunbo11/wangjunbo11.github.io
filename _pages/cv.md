@@ -37,8 +37,11 @@ author_profile: true
 ---
 
 ## Working Paper
-- *Environmental Policy and Firm Behavior: Evidence from National Ecological Experimental Zones*  
-  (Working Paper)
+- *Reassessing China’s planting carbon emission performance based on carbon reduction and carbon sink: with a discussion of the Potential for a Green and Low-Carbon Transition*  
+ (Working Paper)
+
+- *Does the National Pilot Zone for Ecological Conservation Policy Foster Green Agricultural Production? Evidence from a Policy Evaluation Based on Double Machine Learning*  
+ (Working Paper)
 
 ---
 
