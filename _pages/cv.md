@@ -18,9 +18,10 @@ author_profile: true
 ---
 
 ## Research Interests
-- ESG and Corporate Behavior  
-- International Trade and Firm Heterogeneity  
-- Digital Economy and Data Factors  
+- ESG and Corporate Behavior    
+- Climate Change
+- Sustainability, Environment management
+- Machine Learning in Econimics
 
 ---
 
