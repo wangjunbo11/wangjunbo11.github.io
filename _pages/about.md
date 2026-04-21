@@ -5,21 +5,18 @@ permalink: /
 author_profile: false
 ---
 
-# Junbo Wang | 王俊博  
-he/him
+<div class="homepage-grid">
 
-![profile](/images/profile.jpg)
+<!-- LEFT COLUMN -->
+<div class="left-column">
 
-**Integrated M.A.–Ph.D. Student in Applied Economics**  
-China Agricultural University  
+<img src="/images/profile.jpg" alt="profile" class="profile-img"/>
 
----
+<h1>Junbo Wang | 王俊博</h1>
+<p>he/him</p>
 
-## Research Focus
-
-ESG · Climate Change · Environmental Policy · Data-driven Economics
-
-I am an early-stage researcher in applied economics focusing on how **environmental policy, corporate behavior, and digitalization** shape sustainable development and firm outcomes.
+<p><strong>Integrated M.A.–Ph.D. Student in Applied Economics</strong><br>
+China Agricultural University</p>
 
 ---
 
@@ -32,10 +29,22 @@ I am an early-stage researcher in applied economics focusing on how **environmen
 
 ---
 
-## Education
+## Contact
 
-- B.A. in Finance, China Agricultural University, 2022–2026 (expected)  
-- Integrated M.A.–Ph.D. in Applied Economics, China Agricultural University, 2026–2031 (expected)  
+📧 15204633895@163.com  
+💻 GitHub: wangjunbo11  
+🆔 ORCID: 0009-0007-8921-4070  
+
+</div>
+
+<!-- RIGHT COLUMN -->
+<div class="right-column">
+
+## Research Focus
+
+ESG · Climate Change · Environmental Policy · Data-driven Economics
+
+I study how environmental regulation, corporate behavior, and digitalization shape sustainable development and firm outcomes using econometric and machine learning methods.
 
 ---
 
@@ -43,7 +52,7 @@ I am an early-stage researcher in applied economics focusing on how **environmen
 
 - *Towards Sustainable Agri-Food Systems: ESG and Export Quality Upgrading*  
 - *Agricultural Export Duration and New Market Entry*  
-- *Optimization in Production Decision-Making using Genetic Algorithms*  
+- *Genetic Algorithm-Based Optimization in Production Decisions*  
 - *Digital Economy and Agricultural Carbon Emissions*
 
 ---
@@ -65,17 +74,10 @@ I am an early-stage researcher in applied economics focusing on how **environmen
 ## Skills
 
 - Econometrics: DID, IV, RDD, Panel Data Models  
-- Methods: Causal Inference, Machine Learning  
+- Causal Inference & Policy Evaluation  
+- Machine Learning for Economics  
 - Programming: Python, R, Stata, Matlab  
 
----
+</div>
 
-## Contact
-
-📧 15204633895@163.com  
-🆔 https://orcid.org/0009-0007-8921-4070  
-💻 https://github.com/wangjunbo11  
-
----
-
-> “Empirical research at the intersection of environment, data, and policy.”
+</div>
