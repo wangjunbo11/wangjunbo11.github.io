@@ -1,0 +1,61 @@
+.homepage-grid {
+  display: grid;
+  grid-template-columns: 280px 1fr;
+  gap: 45px;
+  align-items: start;
+}
+
+/* LEFT SIDEBAR */
+.left-column {
+  position: sticky;
+  top: 40px;
+}
+
+.profile-img {
+  width: 100%;
+  border-radius: 12px;
+  margin-bottom: 15px;
+}
+
+.left-column h1 {
+  font-size: 22px;
+  margin-bottom: 5px;
+}
+
+.left-column p {
+  margin: 5px 0;
+  color: #555;
+  font-size: 14px;
+}
+
+.left-column a {
+  text-decoration: none;
+}
+
+/* RIGHT CONTENT */
+.right-column h2 {
+  margin-top: 25px;
+  font-size: 18px;
+}
+
+.right-column ul {
+  padding-left: 18px;
+}
+
+/* LINKS STYLE */
+.left-column a {
+  display: block;
+  margin: 4px 0;
+  color: #1a73e8;
+}
+
+/* RESPONSIVE */
+@media (max-width: 900px) {
+  .homepage-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .left-column {
+    position: relative;
+  }
+}
