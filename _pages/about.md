@@ -2,25 +2,33 @@
 layout: about
 title: "About"
 permalink: /
-author_profile: true
+author_profile: false
 ---
 
-# Junbo Wang | 王俊博
+# Junbo Wang | 王俊博  
 he/him
 
+![profile](/images/profile.jpg)
+
 **Integrated M.A.–Ph.D. Student in Applied Economics**  
-China Agricultural University
+China Agricultural University  
 
 ---
 
 ## Research Focus
 
-I am an early-stage researcher in applied economics, focusing on:
+ESG · Climate Change · Environmental Policy · Data-driven Economics
 
-- ESG and corporate behavior  
-- Climate change and environmental regulation  
-- Sustainability and green transformation in agriculture  
-- Data-driven policy evaluation using econometric and machine learning methods  
+I am an early-stage researcher in applied economics focusing on how **environmental policy, corporate behavior, and digitalization** shape sustainable development and firm outcomes.
+
+---
+
+## Quick Links
+
+- 📄 [CV](/cv/)
+- 📚 [Publications](/publications/)
+- 💻 [GitHub](https://github.com/wangjunbo11)
+- 🆔 [ORCID](https://orcid.org/0009-0007-8921-4070)
 
 ---
 
@@ -33,17 +41,17 @@ I am an early-stage researcher in applied economics, focusing on:
 
 ## Selected Publications
 
-- *Towards Sustainable Agri-Food Systems: The Role of ESG in Export Quality Upgrading*  
-- *Impact of Agricultural Export Duration on New Market Entry: Evidence from China*  
-- *Genetic Algorithm-Based Multi-Objective Optimization in Production Decision-Making*  
-- *Digital Economy and Agricultural Carbon Emissions: Evidence from Fixed Effects Models*  
+- *Towards Sustainable Agri-Food Systems: ESG and Export Quality Upgrading*  
+- *Agricultural Export Duration and New Market Entry*  
+- *Optimization in Production Decision-Making using Genetic Algorithms*  
+- *Digital Economy and Agricultural Carbon Emissions*
 
 ---
 
 ## Working Papers
 
-- *Reassessing Agricultural Carbon Emissions and Green Transition Potential in China*  
-- *Does the National Ecological Conservation Pilot Zone Improve Green Agricultural Production? Evidence from Double Machine Learning*
+- *Agricultural Carbon Emissions and Green Transition in China*  
+- *Ecological Pilot Zones and Green Agricultural Production (DML Evidence)*  
 
 ---
 
@@ -57,17 +65,16 @@ I am an early-stage researcher in applied economics, focusing on:
 ## Skills
 
 - Econometrics: DID, IV, RDD, Panel Data Models  
-- Causal Inference & Policy Evaluation  
-- Machine Learning for Economics  
+- Methods: Causal Inference, Machine Learning  
 - Programming: Python, R, Stata, Matlab  
 
 ---
 
 ## Contact
 
-- Email: 15204633895@163.com  
-- GitHub: https://github.com/wangjunbo11  
-- ORCID: https://orcid.org/0009-0007-8921-4070  
+📧 15204633895@163.com  
+🆔 https://orcid.org/0009-0007-8921-4070  
+💻 https://github.com/wangjunbo11  
 
 ---
 
