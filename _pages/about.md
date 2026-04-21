@@ -10,7 +10,7 @@ author_profile: false
 <!-- LEFT COLUMN -->
 <div class="left-column">
 
-<img src="/images/profile.jpg" alt="profile" class="profile-img"/>
+<img src="/images/profile.png" alt="profile" class="profile-img"/>
 
 <h1>Junbo Wang | 王俊博</h1>
 <p>he/him</p>
