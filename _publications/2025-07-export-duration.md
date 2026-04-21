@@ -6,7 +6,7 @@ date: 2025-07-09
 
 venue: "Journal of the Science of Food and Agriculture (SCI Q1)"
 authors: "Hongman Liu, Junbo Wang, Ping Wei"
-
+category: "published"
 paperurl: "https://doi.org/10.1002/jsfa.70020"
 
 excerpt: "This paper examines how agricultural export duration affects firms' entry into new markets using HS 6-digit Chinese customs data."
