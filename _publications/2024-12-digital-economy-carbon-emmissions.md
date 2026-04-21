@@ -3,7 +3,7 @@ title: "Study on the Impact of Digital Economy on Agricultural Carbon Emissions 
 collection: publications
 permalink: /publication/digital-economy-carbon-emissions/
 date: 2024-12-25
-
+category: "published"
 venue: "Highlights in Science, Engineering and Technology"
 authors: "Junbo Wang, Shumiao Gao, Zhen Qin"
 paperurl: "https://doi.org/10.54097/6wnfxe67"
