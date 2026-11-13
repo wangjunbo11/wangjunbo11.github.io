@@ -12,7 +12,7 @@ author_profile: true
 ---
 
 ## Education
-- B.A. in Finance, China Agricultural University, 2022–2026 (expected)  
+- B.A. in Finance, China Agricultural University, 2022–2026<br>
 - Ph.D. in Applied Economics (Integrated M.A.–Ph.D. Program), China Agricultural University, 2026–2031 (expected)  
 
 ---
@@ -46,6 +46,10 @@ author_profile: true
 ---
 
 ## Research Experience
+
+- **Research Assistant, Central University of Finance and Economics** (since August 2026)<br>
+  Contributed to a TCFD climate disclosure project for Haitian Flavouring and Food (August–September 2026), focusing on climate metrics and targets, peer benchmarking, and disclosure gap analysis. [Project details](/portfolio/cufe-climate-disclosure/)
+
 - **Principal Investigator**, National Undergraduate Innovation Project  
   *Digital Technology and Green Total Factor Productivity*  
 
@@ -57,3 +61,7 @@ author_profile: true
 - Methods: Causal Inference, Machine Learning  
 
 ---
+
+## Doctoral Planning
+
+[萝博的进击 · My Doctoral Journey](https://luobo-phd-journey.workspace-922242.chatgpt.site) brings together milestones, publications, joint-training preparation, and degree requirements. Public visitors can view the plan; editing is reserved for the owner.

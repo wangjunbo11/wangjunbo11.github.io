@@ -17,7 +17,7 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "Research Projects"
     url: /portfolio/
         
   - title: "Blog Posts"
@@ -31,3 +31,6 @@ main:
     
   - title: "Guide"
     url: /markdown/
+
+  - title: "Doctoral Planner"
+    url: https://luobo-phd-journey.workspace-922242.chatgpt.site
